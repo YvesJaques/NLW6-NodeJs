@@ -3,12 +3,12 @@
 ## Requirements
 
  - User registration
-    [ x ] Should not be able to register an user with an email already in use
-    [ x ] Should not be able to register an user with no email
+    [x] Should not be able to register an user with an email already in use
+    [x] Should not be able to register an user with no email
 
  - TAG registration
-    [ ] Should not be able to register multiple tags with the same name
-    [ ] Should not be able to registar a tag with no name
+    [x] Should not be able to register multiple tags with the same name
+    [x] Should not be able to register a tag with no name
     [ ] Should not allow tags registration by non admin users
 
  - Compliment registration
