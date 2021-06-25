@@ -21,7 +21,7 @@ import { User } from "./User";
 
     @JoinColumn({name: "user_receiver"})
     @ManyToOne(() => User)
-    userRecevier: User
+    userReceiver: User
 
     @Column()
     tag_id: string;
